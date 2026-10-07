@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>이바우펫 애견미용학원 대전점</title>
+    <link>https://evawpet-daejeon.com/</link>
+    <description>대전 서구 둔산동 이바우펫 애견미용학원 대전점. 100% 가정견 실습과 개별 진도 수업으로 애견미용 자격증부터 취업·창업까지.</description>
+    <language>ko</language>
+    <lastBuildDate>Wed, 07 Oct 2026 12:00:00 +0900</lastBuildDate>
+    <atom:link href="https://evawpet-daejeon.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>대전 애견미용학원 | 이바우펫 대전점 · 100% 가정견 실습</title>
+      <link>https://evawpet-daejeon.com/</link>
+      <guid isPermaLink="true">https://evawpet-daejeon.com/</guid>
+      <description>대전 서구 대덕대로 182 오라클빌딩 10층. 개별 진도 수업, 장학지원, 무료 주차. 입문자도 자격증부터 취업·창업까지 배울 수 있는 이바우펫 대전점입니다.</description>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
